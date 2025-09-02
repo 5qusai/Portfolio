@@ -288,7 +288,7 @@ body {
 
 @media (max-width: 1100px) {
   body {
-    background-image: url(Images/body\ image\-\ Copy.jpg);
+    background-image: url(Images/body\ image\ -\ Copy.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -297,6 +297,8 @@ body {
 }
 
 @media (max-width: 750px) {
+ 
+
   .Sec2 h2 {
     font-size: 30px;
   }
@@ -349,7 +351,7 @@ body {
   }
 
   body {
-    background-image: url(Images/body\ image\-\ Copy.jpg);
+    background-image: url(Images/body\ image\ -\ Copy.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
